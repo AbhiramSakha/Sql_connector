@@ -39,5 +39,34 @@ If this is a Python based project:
 
 1. Clone the repository:
 
-```bash
+```
+bash
 git clone https://github.com/AbhiramSakha/Sql_connector.git
+
+## Example Usage
+
+```python
+from connector import connect_db
+
+connect_db()
+
+---
+
+## 🚀 Features
+
+- Easy SQL database connection
+- Simple and clean structure
+- Beginner-friendly project
+- Supports MySQL connector
+
+## 🛠️ Requirements
+
+- Python 3.x
+- mysql-connector-python
+
+### Step 2: Commit
+
+```bash id="m2j49t"
+git add .
+git commit -m "docs: add usage example to README"
+git push
