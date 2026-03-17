@@ -41,3 +41,19 @@ If this is a Python based project:
 
 ```bash
 git clone https://github.com/AbhiramSakha/Sql_connector.git
+
+## Example Usage
+
+```python
+from connector import connect_db
+
+connect_db()
+
+---
+
+### Step 2: Commit
+
+```bash id="m2j49t"
+git add .
+git commit -m "docs: add usage example to README"
+git push
