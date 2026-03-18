@@ -75,3 +75,6 @@ git push
 
 - Improved documentation for better clarity
 - Added features section
+## 🔄 Update 2
+
+- Minor improvement for documentation clarity
