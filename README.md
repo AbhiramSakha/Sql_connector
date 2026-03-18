@@ -3,6 +3,12 @@
 This repository contains a simple SQL connector project that helps you connect and interact with a SQL database using Python (or any supported language you choose).
 
 ---
+## 📌 Update
+
+- Improved documentation for better clarity
+- Added features section
+
+---
 
 ## 🚀 Overview
 
